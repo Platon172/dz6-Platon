@@ -1,0 +1,20 @@
+.card {
+    width: 600px;
+    height: 340px;
+    background-image: url("photo.jpg");
+    background-size: cover;
+    border-radius: 40px;
+    color: white;
+    font-family: 'Fascinate', cursive;
+    padding-top: 128px;
+    box-sizing: border-box;
+
+}
+.name1 {
+    text-align: center;
+    margin: 0px;
+}
+.name2 {
+    text-align: center;
+    margin: 0px;
+}
